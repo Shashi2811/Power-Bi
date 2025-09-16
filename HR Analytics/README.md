@@ -6,6 +6,14 @@ The aim is to uncover key HR insights such as attrition trends, department-wise 
 
 ---
 
+## Badges
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Status](https://img.shields.io/badge/Project%20Type-Analytics%20Dashboard-brightgreen)
+
+---
+
 ## Key Insights
 - **Total Employees**: 1470  
 - **Total Attrition**: 237 (16%)  
@@ -42,6 +50,21 @@ The aim is to uncover key HR insights such as attrition trends, department-wise 
 
 ---
 
+## Business Impact
+- Helps HR managers identify high-risk departments with high attrition.  
+- Enables data-driven decisions for employee retention strategies.  
+- Provides demographic insights to improve hiring and workforce planning.  
+
+---
+
+## Technical Stack
+- **Power BI** (data modeling, dashboard design)  
+- **Power Query** (ETL and data transformation)  
+- **DAX** (calculated measures and KPIs)  
+- **Excel** (data cleaning and preprocessing)  
+
+---
+
 ## Files in Repository
 - `HR.pbix` → Power BI dashboard file  
 - `HR Data.xlsx` → Source dataset  
@@ -54,4 +77,3 @@ The aim is to uncover key HR insights such as attrition trends, department-wise 
 1. Clone the repository  
    ```bash
    git clone https://github.com/Shashi2811/hr-analytics.git
-
