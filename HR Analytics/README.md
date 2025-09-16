@@ -77,3 +77,6 @@ The aim is to uncover key HR insights such as attrition trends, department-wise 
 1. Clone the repository  
    ```bash
    git clone https://github.com/Shashi2811/hr-analytics.git
+2. Open HR.pbix in Power BI Desktop.
+
+3. Explore interactive dashboards with filters and slicers.
